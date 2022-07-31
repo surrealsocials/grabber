@@ -12,7 +12,7 @@ import subprocess
 from tkinter import *
 import threading
 import asyncio
-import win32clipboard
+#import win32clipboard
 import shutil
 
 
