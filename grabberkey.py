@@ -3,7 +3,7 @@
 import keyboard
 from pynput.mouse import Button, Controller
 import numpy as np
-import cv2
+#import cv2
 from PIL import ImageGrab
 import os
 import pyautogui
